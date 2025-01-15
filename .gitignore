@@ -1,0 +1,72 @@
+# macOS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder attributes
+Icon?
+._*
+
+# macOS specific files that might appear on network or USB drives
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# CLion specific files
+.idea/
+cmake-build-*/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# Build files
+build/
+*.o
+*.obj
+*.so
+*.a
+*.dylib
+*.exe
+*.out
+*.app
+
+# Logs and debugging files
+*.log
+*.dbg
+*.stackdump
+
+# Generated files
+*.generated
+*.gen
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# Coverage reports
+*.gcno
+*.gcda
+*.gcov
+
+# Additional IDE-related files
+*.iml
+*.ipr
+*.iws
+
+# Other backups
+*.old
+*.orig

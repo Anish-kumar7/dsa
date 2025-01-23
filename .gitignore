@@ -5,6 +5,10 @@
 
 # macOS Finder attributes
 Icon?
+
+.*
+!*.*
+
 ._*
 
 # macOS specific files that might appear on network or USB drives
